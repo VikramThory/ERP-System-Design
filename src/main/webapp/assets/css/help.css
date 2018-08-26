@@ -1,0 +1,11 @@
+#page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 15px;
+    padding-left: 280px;
+    margin-top: 50px;
+}
+
+body{
+	font-family: 'PT Sans', sans-serif;
+}

@@ -1,0 +1,39 @@
+#page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 15px;
+    padding-left: 280px;
+    margin-top: 50px;
+}
+
+body{
+	font-family: 'PT Sans', sans-serif;
+}
+
+.unittext{
+    text-align: center;
+    font-size: 26px;   
+}
+
+.cardtext{
+    margin: 0px;
+    margin-bottom: 10px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.cardform{
+    margin: 0px;
+    margin-bottom: 10px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.two{
+    margin: 0px;
+    padding-left: -10px;
+    padding-right: -10px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+#sno{
+	width: 65px;
+}

@@ -1,0 +1,42 @@
+body{
+    background: url(../image/icetea.jpg) no-repeat no-repeat center fixed;
+    background-size: cover;
+}
+
+.loginform{
+    box-shadow: 0px 2px 16px 6px rgba(0,0,0,0.75);
+    margin:140px;
+    border-radius: 10px;
+}
+
+.button{
+    width:100%;
+}
+
+.forgotpassword{
+    margin-bottom: -25px;
+}
+
+.slogandiv{
+    margin-top: 50px;
+}
+
+#slogan{
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 1.8;
+    font-size: 60px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#secondaryslogan{
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 2.1;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+input:not([type]), input[type=text]:not(.browser-default), input[type=password]:not(.browser-default), input[type=email]:not(.browser-default), input[type=url]:not(.browser-default), input[type=time]:not(.browser-default), input[type=date]:not(.browser-default), input[type=datetime]:not(.browser-default), input[type=datetime-local]:not(.browser-default), input[type=tel]:not(.browser-default), input[type=number]:not(.browser-default), input[type=search]:not(.browser-default), textarea.materialize-textarea{
+    border-color: white;
+}
